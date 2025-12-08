@@ -7,13 +7,15 @@
 Based on your house price model, rank the four features from most important to least important. Explain how you determined this ranking.
 
 **YOUR ANSWER:**
-1. Most Important: 
-2. 
-3. 
-4. Least Important: 
+Most Important:
+1. Square Footage   
+2. Bedrooms
+3. Bathrooms
+4. Age 
+Least Important:
 
 **Explanation:**
-
+Square footage is the most important for developing the house price model 
 
 
 
